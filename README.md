@@ -1,2 +1,2 @@
-# admin_dashboard
+# Admin Dashboard
 Interactives admin dashboard
