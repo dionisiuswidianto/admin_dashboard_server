@@ -1,2 +1,2 @@
 # Admin Dashboard
-Interactives admin dashboard
+MERN admin dashboard
